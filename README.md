@@ -1,2 +1,2 @@
 # JavaScript_30
-A vanilla JavaScript challenge where keystrokes imitates a drum kit.
+A vanilla JavaScript challenge where keystrokes imitate a drum kit.
