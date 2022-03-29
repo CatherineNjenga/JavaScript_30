@@ -4,5 +4,11 @@
 </div>
 
 ### List of Projects
-1. #### [JS Drum Kit](#learn-swahili-vowels)
+1. #### [JS Drum Kit](#JS-drum-kit)
    Play the drum kit by clicking on the letters displayed on the virtual keyboard.
+
+2. #### [JS and CSS clock](#JS-and-CSS-clock)
+   Creating a wall clock with JS and CSS.
+
+3. #### [CSS_variables](#css-variables) 
+   Using JS to dynamically change CSS attributes.
