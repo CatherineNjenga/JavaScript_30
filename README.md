@@ -4,5 +4,5 @@
 </div>
 
 ### List of Projects
-1. #### [Learn Swahili Vowels](#learn-swahili-vowels)
-   Learn Swahili vowels by clicking on the letters displayed on the virtual keyboard.
+1. #### [JS Drum Kit](#learn-swahili-vowels)
+   Play the drum kit by clicking on the letters displayed on the virtual keyboard.
